@@ -1,4 +1,4 @@
-#具体信息都可以动态修改
+#具体信息都可以动态修
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chengshengxian/text/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
